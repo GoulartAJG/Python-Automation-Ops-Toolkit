@@ -29,6 +29,5 @@ Abra um Pull Request<br/>
 Este projeto está sob a licença MIT.<br/>
 
 👨‍💻 Autor<br/>
-
 Desenvolvido por Alan Goulart<br/>
 Especialista em Infraestrutura, DevOps e Observabilidade Industrial
