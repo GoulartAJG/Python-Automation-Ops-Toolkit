@@ -1,9 +1,7 @@
 🚀 Python Automation Scripts
-
 Repositório contendo scripts em Python para automação de tarefas operacionais, manutenção de ambientes e rotinas administrativas.
 
 📌 Objetivo
-
 Centralizar scripts reutilizáveis para:
 
 🧹 Limpeza automática de arquivos (logs, temporários, uploads)
